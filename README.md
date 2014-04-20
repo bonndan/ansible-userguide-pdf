@@ -19,7 +19,7 @@ In the console, call the following (assuming that ../ansible/docsite/) points to
 docsite directory of the ansible repo:
 
     python build_site.py ../ansible/docsite/rst/
-    cd latex; pdflatex --interaction=nonstopmode ansible.tex; i
+    cd latex; pdflatex --interaction=nonstopmode ansible.tex;
     mv ansible.pdf ../ansible_userguide.pdf; cd ..
 
 See also here: https://github.com/ansible/ansible/tree/devel/docsite
