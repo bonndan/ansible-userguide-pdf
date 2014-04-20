@@ -1,7 +1,7 @@
 Ansible User Guide PDF Generator
 ================================
 
-This project creates a PDF file from the ansible documentation.
+This project creates the ansible documentation as [PDF](https://github.com/bonndan/ansible-userguide-pdf/raw/master/ansible_userguide.pdf).
 
 Installation
 ------------
