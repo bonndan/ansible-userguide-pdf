@@ -37,7 +37,7 @@ In the console, call the following (assuming that ../ansible/docsite/) points to
 docsite directory of the ansible repo:
 
     cd ansible-userguide-pdf
-    python build-site.py ../ansible/docsite/rst/
+    python build-site.py ../ansible/docs/docsite/rst/
     cd latex; pdflatex --interaction=nonstopmode ansible.tex;
     mv ansible.pdf ../ansible_userguide.pdf; cd ..
 
